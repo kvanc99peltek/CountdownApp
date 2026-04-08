@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Starting Services Lab</string>
+    <string name="hint_enter_number">Enter a number</string>
+    <string name="btn_start">Start Countdown</string>
+</resources>
